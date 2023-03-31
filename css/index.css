@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+.boxini{
+
+    border: 1px solid black;
+    height: 100px;
+    
+}
